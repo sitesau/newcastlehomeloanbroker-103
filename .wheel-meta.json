@@ -1,0 +1,22 @@
+{
+  "wheel_id": 497,
+  "structure": "umbrella",
+  "slug": "newcastlehomeloanbroker-103",
+  "project": "home-loan-broker-newcastle-common-mistakes-3fa6707fd4f35eae4659",
+  "parent_t1_ref": "newcastlehomeloanbroker-151",
+  "node_role": "feeder",
+  "money_target": "newcastlehomeloanbroker.com.au",
+  "primary_kw": "home loan broker newcastle common mistakes",
+  "intended_url": "https://sitesau.github.io/newcastlehomeloanbroker-103/",
+  "tier": "T2",
+  "writeback_nonce": "0651acfb4a90df02",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-broker-newcastle-cf7af87c5eed3e86dd9c85c7e833918e7/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
